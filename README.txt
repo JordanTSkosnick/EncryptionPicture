@@ -1,0 +1,1 @@
+This program takes a message and turns each character into a bit that is stored within a pixel of a given image.
